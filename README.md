@@ -1,6 +1,6 @@
 # Intel Scene Classification Challenge
 
-This repository consists of `notebooks` containing different experiments, `ensemble.py` file containing script for ensembling, `ensemble_submissions` with all the submission files used for final ensembling (models > 0.92) and data containing train and test images.
+This repository consists of `notebooks` containing different experiments, `ensemble.py` file containing script for ensembling, `ensemble_submissions` with all the submission files used for final ensembling (model_accuracy > 0.92) and data containing train and test images.
 
 **How to setup train folder?**
 
